@@ -6,7 +6,7 @@ Clart.zip is an incredibly professional and highly dedicated team of licensed an
 
 As of March 2024, the team consists of the following members: 
 
-||
+|Team|
 |----------------------------------------|
 |<img src="https://avatars.githubusercontent.com/u/21113793?v=4" width="20" height="20">[ **Broccoli**](https://github.com/saftey1122)|
 |<img src="https://cdn.discordapp.com/avatars/499611066528170004/cc988bd985f08b7d56b590cb397d6599.png?size=1024&format=webp&quality=lossless&width=0&height=256" width="20" height="20">[ **Frost**](https://github.com/froststinks)|
